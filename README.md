@@ -8,7 +8,7 @@ Architecture
 =========
 
 Image:
-[Architecture](https://github.com/hufuman/crashstat/raw/master/docs/architecture.png)
+[Data Flow](https://github.com/hufuman/crashstat/raw/master/docs/architecture.png)
 
 
 Client Part
