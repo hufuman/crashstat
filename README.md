@@ -19,20 +19,20 @@ Client Part
 Server Part
 =========
 
-1. Crash Receiver
-2. Parser Scheduler
-3. Crash Parser
+1. [Crash Receiver](https://github.com/hufuman/crashstat/wiki/Crash-Receiver)
+2. [Parser Scheduler](https://github.com/hufuman/crashstat/wiki/Parser-Scheduler)
+3. [Crash Parser](https://github.com/hufuman/crashstat/wiki/Crash-Parser)
 
 Build Part
 =========
-1. Source Indexer
-2. Symbol Uploader
+1. [Source Indexer](https://github.com/hufuman/crashstat/wiki/Source-Indexer)
+2. [Symbol Uploader](https://github.com/hufuman/crashstat/wiki/Symbol-Uploader)
 
 Web Part
 =========
 
-1. Web
-2. Web Service
+1. [Web](https://github.com/hufuman/crashstat/wiki/Web)
+2. [Web Service](https://github.com/hufuman/crashstat/wiki/Web-Service)
 
 More
 =========
