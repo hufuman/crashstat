@@ -23,7 +23,13 @@ Server Part
 2. Parser Scheduler
 3. Crash Parser
 
+Build Part
+=========
+1. Source Indexer
+2. Symbol Uploader
+
 Web Part
 =========
 
 1. Web
+2. Web Service
