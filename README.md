@@ -7,8 +7,7 @@ whole sdk to generate crash dmp and view statistics of all dmps
 Architecture
 =========
 
-Image:
-[Data Flow](https://github.com/hufuman/crashstat/raw/master/docs/architecture.png)
+[Data Flow](https://github.com/hufuman/crashstat/raw/master/docs/data_flow.png)
 
 
 Client Part
