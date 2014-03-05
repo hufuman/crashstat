@@ -8,7 +8,7 @@ Architecture
 =========
 
 Image:
-[image](https://github.com/hufuman/crashstat/raw/master/docs/architecture.png)
+[Architecture](https://github.com/hufuman/crashstat/raw/master/docs/architecture.png)
 
 
 Client Part
