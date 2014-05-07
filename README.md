@@ -1,7 +1,7 @@
 crashstat
 =========
 
-whole sdk to generate crash dmp and view statistics of all dmps
+Full sdk to generate crash dmp and view statistics of all dmps
 
 
 Architecture
